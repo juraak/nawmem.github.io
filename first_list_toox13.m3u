@@ -1,5 +1,7 @@
-﻿#EXTM3U
- #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz" refresh="3600"
+#PLAYLIST:PeersTV
+#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz" refresh="3600"
+
+
 #EXTINF:0, РенТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0, РенТВ HD
