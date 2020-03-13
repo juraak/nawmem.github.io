@@ -15,8 +15,6 @@ https://tinyurl.com/v8777xz/comedy/index.m3u8?token=BO6ZXW40RH
 https://tinyurl.com/v8777xz/scifi/index.m3u8?token=BO6ZXW40RH
 #EXTINF:0, Дисней
 http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8
-#EXTINF:0, Драйв
-https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0, History HD
 https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0, Хуйкня ТВ
@@ -27,6 +25,8 @@ https://plbl.m9.lfstrm.tv/malysh/normal/1/index.m3u8?account=3f378f7832e53c10&or
 http://188.35.9.11:11152/q
 #EXTINF:0, О!
 http://78.111.93.102:53022/udp/233.166.172.176:1234
+#EXTINF:0, Драйв
+https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0, Авто 24
 http://81.23.184.176:4022/udp/234.0.0.227:2000
 #EXTINF:0, Авто (плюс)
