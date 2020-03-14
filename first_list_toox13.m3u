@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U
 #EXTINF:0, РенТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0, РенТВ HD
@@ -33,3 +33,5 @@ http://81.23.184.176:4022/udp/234.0.0.227:2000
 https://tinyurl.com/sssc2tf/auto_plus/16/tvrecw/playlist.m3u8
 #EXTINF:0, Детский
 http://178.163.82.113:4022/udp/234.0.0.217:2000
+#EXTINF:0, Discovery Science HD
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/03/plst.m3u8
