@@ -17,7 +17,7 @@ http://78.129.228.178/iptv/NMR3AA8XMFQYUN/112/index.m3u8
 http://8197bd8e.ulkakak.pw/iptv/TTFG7E4TSZXS2N/505/index.m3u8
 #EXTINF:0, Карусель
 http://dmitry-tv.my1.ru/his/itv_zabava/24/CH_KARUSEL_4.m3u8
-#EXTINF:0, ТВ Центр
+#EXTINF:0, ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:0, РЕН ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
