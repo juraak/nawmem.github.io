@@ -1,24 +1,24 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:0, Первый канал HD +4
+#EXTINF:0, Первый канал HD
 http://182.73.122.74:10003/bysid/904
 #EXTINF:0, Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
 #EXTINF:0, Матч!
-
+http://dmitry-tv.my1.ru/his/01/CH_MATCHTV.m3u8
 #EXTINF:0, Россия 24 HD
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:0, ОТР
-
+http://37.235.194.124:81/udp/225.50.66.12:1234
 #EXTINF:0, НТВ
 http://79.135.71.195:8007
 #EXTINF:0, НТВ+Спорт
 http://79.135.71.195:8007
 #EXTINF:0, Пятый канал
-
+http://78.129.228.178/iptv/NMR3AA8XMFQYUN/112/index.m3u8
 #EXTINF:0, Роосия Культура
-
+http://8197bd8e.ulkakak.pw/iptv/TTFG7E4TSZXS2N/505/index.m3u8
 #EXTINF:0, Карусель
-
+http://dmitry-tv.my1.ru/his/itv_zabava/24/CH_KARUSEL_4.m3u8
 #EXTINF:0, ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:0, РенТВ
@@ -26,15 +26,15 @@ http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0, РенТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:0, СТС
-
-#EXTINF:0, Домашний
-
+http://fr01.spr24.net/224/index.m3u8?token=rCEqTFvRhtEvXt
+#EXTINF:0, Домашний HD
+https://plbl.m9.lfstrm.tv/domashniy_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0, ТВ 3
-
+http://37.235.188.194:81/udp/225.50.66.55:1234
 #EXTINF:0, Пятница! HD
 http://85.112.114.11:8086/udp/233.170.170.112:58631
 #EXTINF:0, Звезда
-
+http://194.150.140.18:4022/udp/225.54.200.37:5000
 #EXTINF:0, МИР
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
 #EXTINF:0, ТНТ
@@ -56,8 +56,6 @@ https://tinyurl.com/v8777xz/scifi/index.m3u8?token=BO6ZXW40RH
 http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8
 #EXTINF:0, Драйв
 https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:0, History HD
-https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0, Кухня ТВ
 http://178.217.72.66:80/225.201.2.183/tracks-v1a1/mono.m3u8
 #EXTINF:0, Малышь ТВ
@@ -76,3 +74,8 @@ http://178.163.82.113:4022/udp/234.0.0.217:2000
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
 #EXTINF:0, Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+
+#EXTINF:0, History HD
+https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
+#EXTINF:0, National Geographic HS
+http://185.44.75.89:10403/hls/61901/index.m3u8
