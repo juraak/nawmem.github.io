@@ -40,7 +40,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
 #EXTINF:0, ТНТ
 http://195.191.208.2:8086/udp/233.170.170.130:58631
 #EXTINF:0, МузТВ
-#EXTINF:0, РТР Роосия
+#EXTINF:0, Россия-Планета (Европа)
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:0, Бобер
 http://178.217.72.66:80/225.201.2.209/tracks-v1a1/mono.m3u8
