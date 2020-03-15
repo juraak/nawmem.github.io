@@ -19,9 +19,9 @@ http://8197bd8e.ulkakak.pw/iptv/TTFG7E4TSZXS2N/505/index.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/24/CH_KARUSEL_4.m3u8
 #EXTINF:0, ТВ Центр
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:0, РенТВ
+#EXTINF:0, РЕН ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
-#EXTINF:0, РенТВ HD
+#EXTINF:0, РЕН ТВ HD
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:0, СТС
 http://fr01.spr24.net/224/index.m3u8?token=rCEqTFvRhtEvXt
