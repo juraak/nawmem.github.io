@@ -76,3 +76,5 @@ https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c1
 http://109.95.47.249:12284/813
 #EXTINF:0, Discovery Channel
 http://141.105.128.174:10001/discovery_channel
+#EXTINF:0, Русская Ночь
+http://188.35.9.11:21051/udp/071l
