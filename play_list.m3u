@@ -22,7 +22,7 @@ http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:0, РЕН ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:0, РЕН ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://streamer-1.obozrenie.tv/18/32faf651ee5d8118/11/stream.m3u8
 #EXTINF:0, СТС
 http://fr01.spr24.net/224/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:0, Домашний HD
