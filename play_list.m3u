@@ -19,7 +19,7 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_KARUSEL_2.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_OTR.m3u8
 #EXTINF:-1,ТВЦ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1,РЕН ТВ (+2)
+#EXTINF:-1,РЕН ТВ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV_2.m3u8
 #EXTINF:-1,СТС
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS_2.m3u8
