@@ -1,43 +1,42 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:0, Первый канал
-http://streamer-1.obozrenie.tv/18/32faf651ee5d8118/1/stream.m3u8
-#EXTINF:0, Россия 1
-http://streamer-1.obozrenie.tv/18/32faf651ee5d8118/21/stream.m3u8
-#EXTINF:0, Матч!
-http://dmitry-tv.my1.ru/his/01/CH_MATCHTV.m3u8
-#EXTINF:0, Россия 24 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:0, ОТР
-http://37.235.194.124:81/udp/225.50.66.12:1234
-#EXTINF:0, НТВ
-http://79.135.71.195:8007
-#EXTINF:0, Пятый канал
-http://78.129.228.178/iptv/NMR3AA8XMFQYUN/112/index.m3u8
-#EXTINF:0, Роосия Культура
-http://8197bd8e.ulkakak.pw/iptv/TTFG7E4TSZXS2N/505/index.m3u8
-#EXTINF:0, Карусель
-http://dmitry-tv.my1.ru/his/itv_zabava/24/CH_KARUSEL_4.m3u8
-#EXTINF:0, ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:0, РЕН ТВ
-http://ott-cdn.ucom.am/s85/index.m3u8
-#EXTINF:0, РЕН ТВ HDВ
-http://31.41.97.201:81/udp/225.0.56.96:1234
-#EXTINF:0, СТС
-http://fr01.spr24.net/224/index.m3u8?token=rCEqTFvRhtEvXt
-#EXTINF:0, Домашний HD
-https://plbl.m9.lfstrm.tv/domashniy_hd/normal/3/index.m3u8?account=3f378f7832e53c10&amp;origin=m9-live4&amp;provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:0, ТВ 3
-http://37.235.188.194:81/udp/225.50.66.55:1234
-#EXTINF:0, Пятница
-http://37.235.140.114:81/udp/225.50.66.56:1234
-#EXTINF:0, Звезда
-http://194.150.140.18:4022/udp/225.54.200.37:5000
-#EXTINF:0, МИР 
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
-#EXTINF:0, ТНТ
-http://195.191.208.2:8086/udp/233.170.170.130:58631
-#EXTINF:0, МузТВ
+#EXTINF:-1,Первый канал
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1,Россия 1
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1,Матч ТВ
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_MATCHTV.m3u8
+#EXTINF:-1,НТВ
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1,Пятый канал
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1,Россия К
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1,Россия 24
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1,Карусель
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_KARUSEL_2.m3u8
+#EXTINF:-1,ОТР
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1,ТВЦ
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1,РЕН ТВ (+2)
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF:-1,СТС
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_STS_2.m3u8
+#EXTINF:-1,Домашний
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1,ТВ3
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1,Пятница!
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_FRIDAY_2.m3u8
+#EXTINF:-1,Звезда
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_ZVEZDA_2.m3u8
+#EXTINF:-1,МИР
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_MIR_2.m3u8
+#EXTINF:-1,ТНТ
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1,МУЗ ТВ
+http://dmitry-tv.my1.ru/his/DVB-T2/CH_MUZTV_2.m3u8
 #EXTINF:0, Россия-Планета (Европа)
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:0, Бобер
