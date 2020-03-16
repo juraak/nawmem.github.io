@@ -20,9 +20,9 @@ http://dmitry-tv.my1.ru/his/itv_zabava/24/CH_KARUSEL_4.m3u8
 #EXTINF:0, ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
 #EXTINF:0, РЕН ТВ
-http://37.195.88.141:81/udp/239.1.15.5:1234
+http://ott-cdn.ucom.am/s85/index.m3u8
 #EXTINF:0, РЕН ТВ HD
-http://streamer-1.obozrenie.tv/18/32faf651ee5d8118/11/stream.m3u8
+http://31.41.97.201:81/udp/225.0.56.96:1234
 #EXTINF:0, СТС
 http://fr01.spr24.net/224/index.m3u8?token=rCEqTFvRhtEvXt
 #EXTINF:0, Домашний HD
