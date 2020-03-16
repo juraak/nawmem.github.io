@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
-#EXTINF:0, Первый канал HD
-http://182.73.122.74:10003/bysid/904
-#EXTINF:0, Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+#EXTINF:0, Первый канал
+http://streamer-1.obozrenie.tv/18/06feccb3a7f98a6e49ecb2a5/40/stream.m3u8
+#EXTINF:0, Россия 1
+http://streamer-1.obozrenie.tv/18/d76c76bfa637ce9354d63a8d/2/stream.m3u8
 #EXTINF:0, Матч!
 http://dmitry-tv.my1.ru/his/01/CH_MATCHTV.m3u8
 #EXTINF:0, Россия 24 HD
