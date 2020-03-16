@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epg.iptvx.one/epg.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:0, Первый канал HD
 http://182.73.122.74:10003/bysid/904
 #EXTINF:0, Россия 1 HD
