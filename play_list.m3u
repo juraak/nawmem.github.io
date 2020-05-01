@@ -3,8 +3,6 @@
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_1TV_2.m3u8
 #EXTINF:-1,Россия 1
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1,Матч ТВ
-http://dmitry-tv.my1.ru/his/DVB-T2/CH_MATCHTV.m3u8
 #EXTINF:-1,НТВ
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_2.m3u8
 #EXTINF:-1,Пятый канал
@@ -41,39 +39,12 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_MUZTV_2.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
 #EXTINF:0, Бобер
 http://178.217.72.66:80/225.201.2.209/tracks-v1a1/mono.m3u8
-#EXTINF:0, Кино VHS
-https://tinyurl.com/v8777xz/vhs/index.m3u8?token=BO6ZXW40RH
-#EXTINF:0, Кино Боевики
-https://tinyurl.com/v8777xz/action/index.m3u8?token=BO6ZXW40RH\
-#EXTINF:0, Кино Комедии
-https://tinyurl.com/v8777xz/comedy/index.m3u8?token=BO6ZXW40RH
-#EXTINF:0, Кино Фантастика
-https://tinyurl.com/v8777xz/scifi/index.m3u8?token=BO6ZXW40RH
-#EXTINF:0, Канал Disney
-http://178.217.72.66:80/225.201.2.105/tracks-v1a1/mono.m3u8
-#EXTINF:0, Драйв ТВ
-https://plbl.m9.lfstrm.tv/drive/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
 #EXTINF:0, Кухня ТВ
 http://178.217.72.66:80/225.201.2.183/tracks-v1a1/mono.m3u8
 #EXTINF:0, Малыш ТВ
 https://plbl.m9.lfstrm.tv/malysh/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr1&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:0, Наука 2.0
-http://188.35.9.11:11152/q
 #EXTINF:0, О!
 http://78.111.93.102:53022/udp/233.166.172.176:1234
-#EXTINF:0, Авто24
-http://81.23.184.176:4022/udp/234.0.0.227:2000
-#EXTINF:0, Авто Плюс
-https://tinyurl.com/sssc2tf/auto_plus/16/tvrecw/playlist.m3u8
-#EXTINF:0, Детский
-http://178.163.82.113:4022/udp/234.0.0.217:2000
 #EXTINF:0, РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:0, History HD
-https://plbl.m9.lfstrm.tv/history_hd/normal/1/index.m3u8?account=3f378f7832e53c10&origin=m9-dvr4&provider_id=5bbf1e6e7bf7c4facb5e43e8
-#EXTINF:0, National Geographic
-http://109.95.47.249:12284/813
-#EXTINF:0, Discovery Channel
-http://141.105.128.174:10001/discovery_channel
-#EXTINF:0, Русская Ночь
-http://188.35.9.11:21051/udp/071l
+
